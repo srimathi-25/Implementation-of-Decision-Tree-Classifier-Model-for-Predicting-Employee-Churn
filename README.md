@@ -73,20 +73,21 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 
+## DATA.HEAD():
 ![image](https://github.com/srimathi-25/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/114581999/621cc909-d881-468e-b3c3-82d442827d83)
-
+## DATA.INFO():
 ![image](https://github.com/srimathi-25/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/114581999/cdf78355-883c-4bb6-bb6b-4e9970c416d9)
-
+## ISNULL() AND SUM():
 ![image](https://github.com/srimathi-25/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/114581999/3dfc8001-34e9-4aca-9910-a6132db3a20a)
-
+## DATA VALUE COUNTS:
 ![image](https://github.com/srimathi-25/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/114581999/12713ebc-2ee7-481b-8fae-f5e0abc87dc8)
-
+## DATA.HEAD() FOR SALARY:
 ![image](https://github.com/srimathi-25/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/114581999/b3e819d8-abc1-4d5c-8cfb-fe9f7267b063)
-
+## X.HEAD()
 ![image](https://github.com/srimathi-25/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/114581999/7c6d2161-9875-41d2-97bb-e3e41ece849b)
-
+## ACCURACY VALUE:
 ![image](https://github.com/srimathi-25/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/114581999/de7e8e46-efea-4226-a3a8-ffe240a69cff)
-
+## DATA PREDICTION:
 ![image](https://github.com/srimathi-25/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/114581999/f4b8afc1-36f2-452a-8f86-ffbb99027c00)
 
 ## Result:
